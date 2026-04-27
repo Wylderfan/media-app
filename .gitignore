@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 venv/
 instance/
+data/
 *.db
 *.sqlite3
 .DS_Store
@@ -12,3 +13,4 @@ instance/
 dist/
 build/
 *.egg-info/
+.claude/settings.local.json
